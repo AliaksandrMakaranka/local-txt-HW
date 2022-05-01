@@ -1,0 +1,1 @@
+bla bla i created also used cat > and exit from it use ctrl+c
